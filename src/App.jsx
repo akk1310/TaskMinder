@@ -19,7 +19,7 @@ function App() {
         <img className='w-8' src="/tasks.png" alt="logo" />
         </span> 
         TaskMinder </h1>
-      <h3 className='mt-1 lg:text-blue-500 text-xl text-red-500 '>Never Miss a Task Again. 😎 </h3>
+      <h3 className='mt-1 text-3xl lg:text-blue-500 sm:text-xl text-red-500 '>Never Miss a Task Again. 😎 </h3>
       </div>
 
       <TodoForm />
